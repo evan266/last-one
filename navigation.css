@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(35, 211, 123);
+    background-color: rgba(20, 230, 100, 0.877);
     }
 
     li {
@@ -19,6 +19,6 @@ ul {
     }
 
     li a:hover {
-        background-color: rgba(68, 206, 91, 0.726);
+        background-color: rgba(85, 247, 112, 0.726);
     }
     
