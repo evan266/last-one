@@ -22,5 +22,8 @@ ul {
         background-color: rgba(85, 247, 112, 0.726);
     }
 
-    ul {position: fixed; top: 10; width: 100%;}
+    ul {
+        position: fixed; top: 0; width: 100%;
+    }
+    
   
