@@ -9,7 +9,7 @@
 <body>
     <div class="wrapper">
         <header class="header">
-            <h1>Min första hemsida</h1>
+            <h1>Froggi</h1>
         </header>
         <header class="mainmenu">
             <ul>
@@ -22,14 +22,7 @@
         <div class="wrapper_2col">
             <div class="leftcol">
                 <p>
-                    Lorem ipsum dolor sit amet, consecteteur adipiscing elit. Curabitur id erat et elit blandit lobortis a a neque. Fusce lacus nisi, 
-                    vuluputate quis vuputate vel, aliquam vitae libero. Sed congue ligula quis turpis tincidunt ut ultrices ante feugiat. Sed semper tortor fermentum ligula fringilla tristique.
-
-                    Mauris lacinia venenatis commodo. Curabitur scelerisque pharetra facilisis.
-                    
-                    Donec et iaculis nunc. Curabitur rhoncus iaculis diam, rutrum faucibus
-                    
-                    magna cursus in. Vestibulum eu consectetur magna. 
+                    Hej och välkommen till min hemsida, Froggi. När det kom till menyn tyckte jag att en horisontell menybar såg bättre och mer proffessionell ut, samt att grön skulle passa som grundläggande färg då hemsidan heter Froggi. 
                 </p>
                 </div><!--leftcol slutar-->
                 <div class="rightcol">
