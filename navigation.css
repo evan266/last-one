@@ -21,5 +21,14 @@ ul {
     li a:hover {
         background-color: rgba(85, 247, 112, 0.726);
     }
-
+ul {
+    border: 1px solid rgb(1, 133, 47);
+}
+li {
+    text-align: center;
+    border-bottom: 1px solid rgb(1, 133, 47);
+}
+li:last-child {
+    border-bottom: none;
+}
   
